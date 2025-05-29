@@ -1,2 +1,3 @@
 # vjs
-Something is coming...
+
+Prototyping components of video.js v10
